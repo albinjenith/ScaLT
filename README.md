@@ -1,0 +1,2 @@
+# ScaLT
+Scan Application
