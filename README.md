@@ -1,2 +1,2 @@
-# ScaLT
-Scan Application
+# scanApp
+Scan App
